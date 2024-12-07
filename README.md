@@ -11,7 +11,7 @@
   </a>
 </p>
 
-> My blof by nuxt
+> My blog by nuxt
 
 ### 🏠 [Homepage](localhost:3000/)
 
